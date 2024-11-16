@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 [1116/141717.907:ERROR:crashpad_client_win.cc(810)] not connected
 [1116/141752.302:ERROR:crashpad_client_win.cc(810)] not connected
 [1116/141752.513:ERROR:crashpad_client_win.cc(810)] not connected
+=======
+
+>>>>>>> c6d50c20e17383529500ff733ebb4cea435657d6
